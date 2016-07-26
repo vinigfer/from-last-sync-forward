@@ -9,4 +9,4 @@ Requirements:
     * ssh-copy-id user@123.45.56.78
 
 Limitations:
-- rsync is using --protect-args option, so MAC OS X users will have trouble since this option is not present on MAX
+- rsync is using --protect-args option, so MAC OS X users will have trouble since this option is not present on MAC
