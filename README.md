@@ -1,4 +1,4 @@
-# from-last-sync-forward
+# from_last_sync_forward
 
 Simple shell script for pulling torrents content I downloaded on my raspberry pi to my computer. Uses rsync with ssh to continue from partially transfered files, filter by file types, and only fetches recent files (from last sync forward).
 
